@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.gradle": true,
+    "**/build": false
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

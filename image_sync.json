@@ -1,0 +1,34 @@
+[
+  {
+    "id": "scene_1",
+    "imagePath": "sample_cinematic_1.jpg",
+    "durationSeconds": 3.0,
+    "transition": "CROSSFADE",
+    "filterEffect": "CINEMATIC_WARM",
+    "framingMode": "CROP_TO_FILL"
+  },
+  {
+    "id": "scene_2",
+    "imagePath": "sample_cinematic_2.jpg",
+    "durationSeconds": 3.0,
+    "transition": "ZOOM_IN",
+    "filterEffect": "CYBERPUNK",
+    "framingMode": "CROP_TO_FILL"
+  },
+  {
+    "id": "scene_3",
+    "imagePath": "sample_cinematic_3.jpg",
+    "durationSeconds": 3.0,
+    "transition": "SLIDE_LEFT",
+    "filterEffect": "NORMAL",
+    "framingMode": "CROP_TO_FILL"
+  },
+  {
+    "id": "scene_4",
+    "imagePath": "sample_cinematic_4.jpg",
+    "durationSeconds": 3.0,
+    "transition": "DIP_TO_BLACK",
+    "filterEffect": "TEAL_ORANGE",
+    "framingMode": "CROP_TO_FILL"
+  }
+]

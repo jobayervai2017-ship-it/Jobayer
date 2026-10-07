@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "fwcd.kotlin",
+    "mathiasfrohlich.Kotlin",
+    "vscjava.vscode-java-pack",
+    "mads-hartmann.bash-ide-vscode",
+    "tamasfe.even-better-toml"
+  ]
+}

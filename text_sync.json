@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sub_1",
+    "text": "STOP SCROLLING!",
+    "startSeconds": 0.2,
+    "endSeconds": 2.8,
+    "animationPreset": "POP_UP",
+    "textEffect": "STROKE_3D",
+    "fontName": "Anton",
+    "fontSize": 44,
+    "textColorHex": "#FFE600",
+    "outlineColorHex": "#000000",
+    "posX": 0.5,
+    "posY": 0.76
+  },
+  {
+    "id": "sub_2",
+    "text": "HERE IS THE SECRET...",
+    "startSeconds": 3.0,
+    "endSeconds": 5.8,
+    "animationPreset": "BOUNCE",
+    "textEffect": "STROKE_3D",
+    "fontName": "Impact",
+    "fontSize": 42,
+    "textColorHex": "#00F0FF",
+    "outlineColorHex": "#000000",
+    "posX": 0.5,
+    "posY": 0.78
+  },
+  {
+    "id": "sub_3",
+    "text": "DUAL-JSON ARCHITECTURE",
+    "startSeconds": 6.0,
+    "endSeconds": 8.8,
+    "animationPreset": "WORD_GLOW",
+    "textEffect": "GLOW",
+    "fontName": "Bebas Neue",
+    "fontSize": 40,
+    "textColorHex": "#00FFE0",
+    "outlineColorHex": "#FF007F",
+    "posX": 0.5,
+    "posY": 0.78
+  },
+  {
+    "id": "sub_4",
+    "text": "FOLLOW FOR MORE!",
+    "startSeconds": 9.0,
+    "endSeconds": 11.8,
+    "animationPreset": "POP_UP",
+    "textEffect": "STROKE_3D",
+    "fontName": "Anton",
+    "fontSize": 46,
+    "textColorHex": "#FFE600",
+    "outlineColorHex": "#000000",
+    "posX": 0.5,
+    "posY": 0.76
+  }
+]

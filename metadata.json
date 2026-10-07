@@ -1,0 +1,6 @@
+{
+  "name": "SyncCut",
+  "description": "Automated Faceless Video Editor with AI Sync timeline, precision trim handles, ripple editing, and lossless silent MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
